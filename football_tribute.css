@@ -1,0 +1,49 @@
+body{
+    background-color: #45A40A;
+    font-size: x-large;
+}
+
+.header{
+    margin: auto;
+    width: 130px;
+    padding-bottom: 10px;
+}
+
+.fimdiv{
+   position:absolute;
+}
+
+.fimdiv:hover{
+    display: none;
+}
+
+.football-image{
+    height: 145px;
+    width: 155px;
+    border-radius: 100%;
+}
+
+.heart-image{
+    height: 145px;
+    width: 155px;
+    border-radius: 100%;
+}
+
+
+.main{
+    margin: auto;
+    width: 1350px;
+}
+.body-main{
+    background-color: #5CC61B;
+    padding: 10px;
+}
+.dear{
+    background-color: #66D820;
+    padding: 30px;
+}
+.tribute-body{
+    background-color: #6AEC1A;
+    padding: 30px;
+}
+
